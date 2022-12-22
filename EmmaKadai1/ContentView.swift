@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  EmmaKadai1
 //
-//  Created by EmmaTone on 2022/12/13.
+//  Created by Emma on 2022/12/13.
 //
 
 import SwiftUI
